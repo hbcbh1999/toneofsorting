@@ -86,7 +86,6 @@ output span.ball {
 
 output span.bar {
   flex: 1;
-  align-self: flex-end;
 }
 
 output span.test {
